@@ -13,6 +13,7 @@
     /* Ajustado al 100% del ancho de la pantalla */
 
     .image {
+        margin: 5%;
         background-color: red;
         background-repeat: no-repeat;
         background-size: cover;
@@ -20,13 +21,14 @@
 
         width: 30vw;
         /* Ancho de la imagen */
-        height: 40vw;
+        height: 20vw;
 
         margin-right: 5%;
         /* Espaciado entre la imagen y el texto */
     }
 
     .my-text {
+        margin: 5%;
         display: flex;
         flex-direction: column;
         width: 100%;

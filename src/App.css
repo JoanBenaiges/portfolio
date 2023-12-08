@@ -1,20 +1,14 @@
 :root {
     background-color: black;
-    overflow: hidden;
+    overflow: auto;
     font-family: monospace;
 }
+
 
 @property --timer {
     syntax: '<integer>';
     inherits: false;
     initial-value: 1;
-}
-
-
-:root {
-    background-color: black;
-    overflow: hidden;
-    font-family: monospace;
 }
 
 

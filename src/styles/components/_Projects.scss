@@ -1,0 +1,48 @@
+.projects {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    transform: translateX(+50%);
+    border-style: double;
+    border-radius: 15px;
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    /* Centra verticalmente en la pantalla */
+    color: #00ff00;
+    width: 50%;
+    /* Ajustado al 100% del ancho de la pantalla */
+
+    .image {
+        margin: 5%;
+        background-color: red;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 15px;
+
+        width: 30vw;
+        /* Ancho de la imagen */
+        height: 20vw;
+
+        margin-right: 5%;
+        /* Espaciado entre la imagen y el texto */
+    }
+
+    .my-text {
+        margin: 5%;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        /* Ajustado al ancho restante */
+    }
+
+    h1 {
+        margin-bottom: 10px;
+
+    }
+
+    p {
+        margin: 0;
+
+    }
+}
