@@ -1,5 +1,7 @@
 function About() {
+
     return (
+
         <div className="about">
 
             <div className="image"></div>
@@ -27,6 +29,7 @@ function About() {
             </div>
 
         </div>
+
     )
 }
 
