@@ -1,5 +1,6 @@
 import React from 'react'
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 function Navigation() {
 
@@ -36,6 +37,7 @@ function Navigation() {
                         <ul className="nav-links">
                             <li><a href="#about">About</a></li>
                             <li><a href="#projects">Projects</a></li>
+                            <li><Link to='/contactme'>Contact Me</Link></li>
 
                         </ul>
 
