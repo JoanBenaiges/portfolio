@@ -37,7 +37,7 @@ function Navigation() {
                         <ul className="nav-links">
                             <li><a href="#about">About</a></li>
                             <li><a href="#projects">Projects</a></li>
-                            <li><Link to='/contactme'>Contact Me</Link></li>
+                            <Link to='/contact-me'>Contact Me</Link>
 
                         </ul>
 

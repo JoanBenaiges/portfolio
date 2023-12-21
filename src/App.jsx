@@ -2,8 +2,10 @@ import './App.css'
 import Navigation from './components/Navigation'
 import About from './components/About'
 import Projects from './components/Projects'
-// import Contact from './components/Contact'
+import AppRoutes from './routes/AppRoutes'
+
 import Footer from './components/Footer'
+import { Route, Routes } from 'react-router-dom'
 
 function App() {
 
@@ -14,7 +16,9 @@ function App() {
       <Navigation />
       <About />
       <Projects />
-      {/* <Contact /> */}
+      <AppRoutes />
+
+
       <Footer />
 
       <div class="letter l00 t200"><div></div></div>
