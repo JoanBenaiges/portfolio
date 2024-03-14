@@ -7,7 +7,7 @@ function Footer() {
 
             <footer className="footer">
                 <hr className='hr-footer' />
-                <p>&copy; 2023 Joan Benaiges. Todos los derechos reservados.</p>
+                <p>&copy; 2023 Joan Benaiges.</p>
             </footer>
         </>
     );
