@@ -73,15 +73,15 @@ function About() {
                 <div className="top">
 
                     <div className="image-and-name">
-                        <img src="./public/javascript.svg" alt="JavaScript" />
+                        <img src="https://svgur.com/i/14Le.svg" alt="JavaScript" />
                         <p>JavaScript</p>
                     </div>
                     <div className="image-and-name">
-                        <img src="./public/html5.svg" alt="HTML5" />
+                        <img src="https://svgur.com/i/14LL.svg" alt="HTML5" />
                         <p>HTML5</p>
                     </div>
                     <div className="image-and-name">
-                        <img src="./public/css3.svg" alt="CSS3" />
+                        <img src="https://svgur.com/i/14Kp.svg" alt="CSS3" />
                         <p>CSS3</p>
                     </div>
 
@@ -89,46 +89,46 @@ function About() {
 
                 <div className="mid">
                     <div className="image-and-name">
-                        <img src="./public/react.svg" alt="React" />
+                        <img src="https://svgur.com/i/14KY.svg" alt="React" />
                         <p>React</p>
                     </div>
                     <div className="image-and-name">
-                        <img src="./public/angular.svg" alt="Angular" />
+                        <img src="https://svgur.com/i/14KK.svg" alt="Angular" />
                         <p>Angular</p>
                     </div>
                     <div className="image-and-name">
-                        <img src="./public/axios.svg" alt="Axios" />
+                        <img src="https://svgur.com/i/14Ky.svg" alt="Axios" />
                         <p>Axios</p>
                     </div>
                     <div className="image-and-name">
-                        <img src="./public/node.svg" alt="Node" />
+                        <img src="https://svgur.com/i/14Lq.svg" alt="Node" />
                         <p>Node</p>
                     </div>
                     <div className="image-and-name">
-                        <img src="./public/express.svg" alt="Express" />
+                        <img src="https://svgur.com/i/14Hh.svg" alt="Express" />
                         <p>Express</p>
                     </div>
                 </div>
 
                 <div className="bottom">
                     <div className="image-and-name">
-                        <img src="./public/bootstrap.svg" alt="Bootstrap" />
+                        <img src="https://svgur.com/i/14Ja.svg" alt="Bootstrap" />
                         <p>Bootstrap 5</p>
                     </div>
                     <div className="image-and-name">
-                        <img src="./public/sass.svg" alt="SASS" />
+                        <img src="https://svgur.com/i/14Jb.svg" alt="SASS" />
                         <p>SASS</p>
                     </div>
                     <div className="image-and-name">
-                        <img src="./public/mongodb.svg" alt="MongoDB" />
+                        <img src="https://svgur.com/i/14LV.svg" alt="MongoDB" />
                         <p>MongoDB</p>
                     </div>
                     <div className="image-and-name">
-                        <img src="./public/github.svg" alt="GitHub" />
+                        <img src="https://svgur.com/i/14L9.svg" alt="GitHub" />
                         <p>GitHub</p>
                     </div>
                     <div className="image-and-name">
-                        <img src="./public/postman.svg" alt="Postman" />
+                        <img src="https://svgur.com/i/14M1.svg" alt="Postman" />
                         <p>Postman</p>
                     </div>
                 </div>

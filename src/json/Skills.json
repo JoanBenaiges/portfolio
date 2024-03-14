@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "name": "JavaScript",
+        "logoImage": "javascript.svg"
+    },
+    {
+        "id": "2",
+        "name": "HTML5",
+        "logoImage": "html5.svg"
+    },
+    {
+        "id": "3",
+        "name": "CSS3",
+        "logoImage": "css3.svg"
+    },
+    {
+        "id": "4",
+        "name": "React",
+        "logoImage": "react.svg"
+    },
+    {
+        "id": "5",
+        "name": "Angular",
+        "logoImage": "angular.svg"
+    },
+    {
+        "id": "6",
+        "name": "Axios",
+        "logoImage": "Axios.svg"
+    },
+    {
+        "id": "7",
+        "name": "Node",
+        "logoImage": "node.svg"
+    },
+    {
+        "id": "8",
+        "name": "Express",
+        "logoImage": "express.svg"
+    },
+    {
+        "id": "9",
+        "name": "Bootstrap",
+        "logoImage": "bootstrap.svg"
+    },
+    {
+        "id": "10",
+        "name": "SASS",
+        "logoImage": "sass.svg"
+    },
+    {
+        "id": "11",
+        "name": "MongoDB",
+        "logoImage": "mongodb.svg"
+    },
+    {
+        "id": "12",
+        "name": "GitHub",
+        "logoImage": "github5.svg"
+    },
+    {
+        "id": "13",
+        "name": "Postman",
+        "logoImage": "postman.svg"
+    }
+]
