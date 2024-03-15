@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import skillsData from '../json/Skills.json'
 
 function About() {
     const [showTitle, setShowTitle] = useState(false);
@@ -71,66 +72,30 @@ function About() {
                 <h1>Skills</h1>
 
                 <div className="top">
-
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14Le.svg" alt="JavaScript" />
-                        <p>JavaScript</p>
-                    </div>
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14LL.svg" alt="HTML5" />
-                        <p>HTML5</p>
-                    </div>
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14Kp.svg" alt="CSS3" />
-                        <p>CSS3</p>
-                    </div>
-
+                    {skillsData.slice(0, 3).map(skill => (
+                        <div className="image-and-name" key={skill.id}>
+                            <img src={`https://svgur.com/i/${skill.logoImage}`} alt={skill.name} />
+                            <p>{skill.name}</p>
+                        </div>
+                    ))}
                 </div>
 
                 <div className="mid">
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14KY.svg" alt="React" />
-                        <p>React</p>
-                    </div>
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14KK.svg" alt="Angular" />
-                        <p>Angular</p>
-                    </div>
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14Ky.svg" alt="Axios" />
-                        <p>Axios</p>
-                    </div>
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14Lq.svg" alt="Node" />
-                        <p>Node</p>
-                    </div>
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14Hh.svg" alt="Express" />
-                        <p>Express</p>
-                    </div>
+                    {skillsData.slice(3, 8).map(skill => (
+                        <div className="image-and-name" key={skill.id}>
+                            <img src={`https://svgur.com/i/${skill.logoImage}`} alt={skill.name} />
+                            <p>{skill.name}</p>
+                        </div>
+                    ))}
                 </div>
 
                 <div className="bottom">
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14Ja.svg" alt="Bootstrap" />
-                        <p>Bootstrap 5</p>
-                    </div>
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14Jb.svg" alt="SASS" />
-                        <p>SASS</p>
-                    </div>
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14LV.svg" alt="MongoDB" />
-                        <p>MongoDB</p>
-                    </div>
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14L9.svg" alt="GitHub" />
-                        <p>GitHub</p>
-                    </div>
-                    <div className="image-and-name">
-                        <img src="https://svgur.com/i/14M1.svg" alt="Postman" />
-                        <p>Postman</p>
-                    </div>
+                    {skillsData.slice(8).map(skill => (
+                        <div className="image-and-name" key={skill.id}>
+                            <img src={`https://svgur.com/i/${skill.logoImage}`} alt={skill.name} />
+                            <p>{skill.name}</p>
+                        </div>
+                    ))}
                 </div>
 
             </div>

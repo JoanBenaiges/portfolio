@@ -2,66 +2,66 @@
     {
         "id": "1",
         "name": "JavaScript",
-        "logoImage": "javascript.svg"
+        "logoImage": "14Le.svg"
     },
     {
         "id": "2",
         "name": "HTML5",
-        "logoImage": "html5.svg"
+        "logoImage": "14LL.svg"
     },
     {
         "id": "3",
         "name": "CSS3",
-        "logoImage": "css3.svg"
+        "logoImage": "14Kp.svg"
     },
     {
         "id": "4",
         "name": "React",
-        "logoImage": "react.svg"
+        "logoImage": "14KY.svg"
     },
     {
         "id": "5",
         "name": "Angular",
-        "logoImage": "angular.svg"
+        "logoImage": "14KK.svg"
     },
     {
         "id": "6",
         "name": "Axios",
-        "logoImage": "Axios.svg"
+        "logoImage": "14Ky.svg"
     },
     {
         "id": "7",
         "name": "Node",
-        "logoImage": "node.svg"
+        "logoImage": "14Lq.svg"
     },
     {
         "id": "8",
         "name": "Express",
-        "logoImage": "express.svg"
+        "logoImage": "14Hh.svg"
     },
     {
         "id": "9",
         "name": "Bootstrap",
-        "logoImage": "bootstrap.svg"
+        "logoImage": "14Ja.svg"
     },
     {
         "id": "10",
         "name": "SASS",
-        "logoImage": "sass.svg"
+        "logoImage": "14Jb.svg"
     },
     {
         "id": "11",
         "name": "MongoDB",
-        "logoImage": "mongodb.svg"
+        "logoImage": "14LV.svg"
     },
     {
         "id": "12",
         "name": "GitHub",
-        "logoImage": "github5.svg"
+        "logoImage": "14L9.svg"
     },
     {
         "id": "13",
         "name": "Postman",
-        "logoImage": "postman.svg"
+        "logoImage": "14M1.svg"
     }
 ]
