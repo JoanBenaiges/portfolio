@@ -1,27 +1,29 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Link } from 'react-router-dom';
 
 function Navigation() {
+    const [showMenu, setShowMenu] = useState(false);
 
-
+    const toggleMenu = () => {
+        setShowMenu(!showMenu);
+    };
 
     return (
-
-        <div class="navigation">
+        <div className="navigation">
             <nav>
-                <div class="logo">JoanBenaiges</div>
-                <div class="nav-container">
-                    <ul class="nav-links">
+                <div className="logo">JoanBenaiges</div>
+                <div className="nav-container">
+                    <div className="menu-icon" onClick={toggleMenu}>☰</div>
+                    <ul className={`nav-links ${showMenu ? 'show' : ''}`}>
                         <li><Link to='/'>About Me</Link></li>
                         <li><Link to='/projects'>Projects</Link></li>
                         <li><Link to='/contact-me'>Contact Me</Link></li>
                     </ul>
                 </div>
             </nav>
-            <hr class='hr-navigation' />
+            <hr className='hr-navigation' />
         </div>
-
     );
 }
 
-export default Navigation
+export default Navigation;
