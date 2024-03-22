@@ -125,6 +125,7 @@
             align-items: center;
 
 
+
             .button {
                 position: relative;
                 padding: 15px 25px;
@@ -139,7 +140,8 @@
                 transition: 0.5s;
                 z-index: 1;
                 margin: 62px;
-
+                background-color: black;
+                z-index: -1;
 
             }
 
@@ -147,6 +149,7 @@
                 color: black;
                 border: 2px solid rgba(0, 0, 0, 0);
                 box-shadow: 0 0 0px var(--color);
+
             }
 
             .button::before {
@@ -260,8 +263,7 @@
 
     .about-page {
         display: block;
-        justify-content: center;
-        align-items: center;
+
 
         .info {
             margin-top: 7rem;
@@ -313,9 +315,11 @@
         .buttons-contact {
             flex-direction: column;
 
+
             .button {
                 text-align: center;
                 width: 8rem;
+
             }
         }
 
