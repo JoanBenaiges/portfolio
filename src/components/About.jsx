@@ -38,31 +38,29 @@ function About() {
 
                 <div className="buttons-contact">
 
-                    <div className="container">
-                        <a className="button" href="https://www.linkedin.com/in/joan-benaiges-94bb9460/" style={{ '--color': '#32CD32' }}>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            LinkedIn
-                        </a>
+                    <a className="button" href="https://www.linkedin.com/in/joan-benaiges-94bb9460/" style={{ '--color': '#32CD32' }}>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        LinkedIn
+                    </a>
 
-                        <a className="button" href="https://github.com/JoanBenaiges" style={{ '--color': '#32CD32' }}>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            GitHub
-                        </a>
+                    <a className="button" href="https://github.com/JoanBenaiges" style={{ '--color': '#32CD32' }}>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        GitHub
+                    </a>
 
-                        <a className="button" href="#" style={{ '--color': '#32CD32' }}>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            My CV
-                        </a>
-                    </div>
+                    <a className="button" href="#" style={{ '--color': '#32CD32' }}>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        My CV
+                    </a>
 
                 </div>
             </div>
