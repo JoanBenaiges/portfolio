@@ -1,65 +1,38 @@
 [
     {
         "id": "1",
-        "name": "Nombre 1",
-        "image": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
+        "name": "Memory Game",
+        "image": "https://i.imgur.com/uoIZGe0.png",
         "tech": "tecnologías aplicadas",
-        "info": "información del proyecto que es",
-        "linkWeb": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
-        "linkGithub": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png"
+        "info": "información del proyecto",
+        "linkWeb": "https://memory-game-dt0l0bwm5-joanbenaiges-projects.vercel.app/",
+        "linkGithub": "https://github.com/JoanBenaiges/memory-game"
     },
     {
         "id": "2",
-        "name": "Nombre 2",
-        "image": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
+        "name": "Raccoons vs Dogs Game",
+        "image": "https://i.imgur.com/3xzI03Z.png",
         "tech": "tecnologías aplicadas",
-        "info": "información del proyecto que es",
-        "linkWeb": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
-        "linkGithub": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png"
+        "info": "información del proyecto",
+        "linkWeb": "https://raccoonsvsdogs.netlify.app/",
+        "linkGithub": "https://github.com/JoanBenaiges/CromiGame"
     },
     {
         "id": "3",
-        "name": "Nombre 3",
-        "image": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
+        "name": "HappyCodev",
+        "image": "https://i.imgur.com/wX9VUxj.png",
         "tech": "tecnologías aplicadas",
-        "info": "información del proyecto que es",
-        "linkWeb": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
-        "linkGithub": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png"
+        "info": "información del proyecto",
+        "linkWeb": "https://happycodev.com/",
+        "linkGithub": "https://github.com/HappyCodev/HappyCode-Landing-client"
     },
     {
         "id": "4",
-        "name": "Nombre 4",
-        "image": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
+        "name": "Canine Click Connect",
+        "image": "https://i.imgur.com/oMAfrZK.png",
         "tech": "tecnologías aplicadas",
-        "info": "información del proyecto que es",
-        "linkWeb": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
-        "linkGithub": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png"
-    },
-    {
-        "id": "5",
-        "name": "Nombre 5",
-        "image": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
-        "tech": "tecnologías aplicadas",
-        "info": "información del proyecto que es",
-        "linkWeb": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
-        "linkGithub": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png"
-    },
-    {
-        "id": "6",
-        "name": "Nombre 6",
-        "image": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
-        "tech": "tecnologías aplicadas",
-        "info": "información del proyecto que es",
-        "linkWeb": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
-        "linkGithub": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png"
-    },
-    {
-        "id": "7",
-        "name": "Nombre 7",
-        "image": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
-        "tech": "tecnologías aplicadas",
-        "info": "información del proyecto que es",
-        "linkWeb": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
-        "linkGithub": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png"
+        "info": "información del proyecto",
+        "linkWeb": "https://canine-click.netlify.app/",
+        "linkGithub": "https://github.com/JoanBenaiges/CCC-client"
     }
 ]
