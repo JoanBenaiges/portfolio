@@ -54,7 +54,7 @@ function About() {
                         GitHub
                     </a>
 
-                    <a className="button" href="#" style={{ '--color': '#32CD32' }}>
+                    <a className="button" href="https://drive.google.com/file/d/15eZedM1myxl320ihoY4NOHkOGhpdsrC6/view" style={{ '--color': '#32CD32' }}>
                         <span></span>
                         <span></span>
                         <span></span>
