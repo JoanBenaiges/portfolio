@@ -71,7 +71,8 @@
 
             .image {
                 margin: 5%;
-                background-color: red;
+                background-image: url("https://i.imgur.com/gu9Qe0F.jpeg");
+                background-position: center;
                 background-repeat: no-repeat;
                 background-size: cover;
                 border-radius: 15px;
@@ -269,6 +270,8 @@
 
                 .image {
                     width: 90%;
+                    height: 18vh;
+
                 }
 
                 .my-text {
@@ -345,7 +348,7 @@
             }
 
             .image-and-name {
-                width: calc(50% - 10px);
+                width: calc(40% - 10px);
                 margin-bottom: 2rem;
             }
 
