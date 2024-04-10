@@ -3,8 +3,8 @@
         "id": "1",
         "name": "Memory Game",
         "image": "https://i.imgur.com/uoIZGe0.png",
-        "tech": "tecnologías aplicadas",
-        "info": "información del proyecto",
+        "tech": "JavaScript | HTML | CSS",
+        "info": "One of my first projects. Memory game to find matching pairs. Who hasn't played Memory game before?",
         "linkWeb": "https://memory-game-dt0l0bwm5-joanbenaiges-projects.vercel.app/",
         "linkGithub": "https://github.com/JoanBenaiges/memory-game"
     },
@@ -12,8 +12,8 @@
         "id": "2",
         "name": "Raccoons vs Dogs Game",
         "image": "https://i.imgur.com/3xzI03Z.png",
-        "tech": "tecnologías aplicadas",
-        "info": "información del proyecto",
+        "tech": "JavaScript | HTML | CSS",
+        "info": "Game where using the keyboard arrows you have to retrieve all the bones and return home safely, careful not to get caught by the raccoons! The small ones will send you back to the starting point, but if the big one catches you, it's game over.",
         "linkWeb": "https://raccoonsvsdogs.netlify.app/",
         "linkGithub": "https://github.com/JoanBenaiges/CromiGame"
     },
@@ -21,8 +21,8 @@
         "id": "3",
         "name": "HappyCodev",
         "image": "https://i.imgur.com/wX9VUxj.png",
-        "tech": "tecnologías aplicadas",
-        "info": "información del proyecto",
+        "tech": "JavaScript | HTML | SASS | React",
+        "info": "Website of the HappyCodev project (under construction) where I was in charge of the front-end for the 'about us' section.",
         "linkWeb": "https://happycodev.com/",
         "linkGithub": "https://github.com/HappyCodev/HappyCode-Landing-client"
     },
@@ -30,8 +30,8 @@
         "id": "4",
         "name": "Canine Click Connect",
         "image": "https://i.imgur.com/oMAfrZK.png",
-        "tech": "tecnologías aplicadas",
-        "info": "información del proyecto",
+        "tech": "JavaScript | HTML | CSS | React | Axios | Vite | NodeJS | Bootstrap | MongoDB",
+        "info": "My final project during my time at the IronHack bootcamp. This application is a social network for dog lovers where you can create your own events or join others, as well as check the status of parks for walking your pet and rate these locations.",
         "linkWeb": "https://canine-click.netlify.app/",
         "linkGithub": "https://github.com/JoanBenaiges/CCC-client"
     }

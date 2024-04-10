@@ -5,7 +5,7 @@
     justify-content: center;
 
     .card {
-        width: calc(20% - 10px);
+        width: calc(30% - 10px);
         height: auto;
         overflow: hidden;
         position: relative;
@@ -19,13 +19,13 @@
 
 
         &:hover {
-            transform: scale(1.2);
+            transform: scale(1.12);
             z-index: 1;
         }
 
         img {
             width: 100%;
-            height: auto;
+            height: 100%;
             transition: transform 0.3s;
             display: block;
         }
@@ -47,8 +47,6 @@
             align-items: center;
             opacity: 0;
             transition: opacity 0.3s;
-
-
         }
 
         &:hover .info {
@@ -59,10 +57,14 @@
         .extra-info {
             display: none;
             margin-bottom: 5px;
-            padding-top: 5px;
+            padding-top: 1rem;
 
             p {
-                font-size: x-small;
+                font-size: 1rem;
+                text-align: justify;
+                margin-top: 0.5rem;
+                margin-left: 1rem;
+                margin-right: 1rem;
             }
         }
 
@@ -71,28 +73,25 @@
         }
 
         .name {
-            font-size: 1.2em;
+            font-size: 1.3em;
             text-align: center;
-            margin-bottom: 0%;
-
         }
 
         .tech {
+            font-size: 1.2rem;
             text-align: center;
-            margin-bottom: 0%;
+            margin: 1%
         }
 
         .links {
-
             display: flex;
             justify-content: center;
-            margin-bottom: 0%;
-
+            margin-top: 1rem;
 
             .icon {
-                margin: 5px;
-                width: 30px;
-                height: 30px;
+                margin: 1rem;
+                width: 3rem;
+                height: 3rem;
             }
 
         }
@@ -115,6 +114,34 @@
                 z-index: 1;
             }
 
+            .extra-info {
+                display: none;
+                padding-top: 1rem;
+
+                p {
+                    font-size: 0.8rem;
+                    margin-left: 1rem;
+                    margin-right: 1rem;
+                }
+            }
+
+            .name {
+                font-size: 1.1rem;
+            }
+
+            .tech {
+                font-size: 1rem;
+            }
+
+            .links {
+                margin-top: 0.2rem;
+
+                .icon {
+                    margin: 0.5rem;
+                    width: 2rem;
+                    height: 2rem;
+                }
+            }
         }
     }
 
