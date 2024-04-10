@@ -1,6 +1,7 @@
 import React, { useState } from "react"
 import projectsData from "../json/Projects.json"
 
+
 function Projects() {
     const [hoveredProject, setHoveredProject] = useState(null);
 

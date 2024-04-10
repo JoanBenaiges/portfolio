@@ -29,9 +29,10 @@ function About() {
                             I consider myself a patient and persistent individual, driven by a strong motivation
                             to continue learning and growing in this ever-evolving field. My goal is to contribute
                             my passion and expertise to the development of innovative and successful web projects.
+                            I'm excited to share my work with you.
                             <br />
                             <br />
-                            Thank you for visiting my portfolio! I'm excited to share my work with you.
+                            Thank you for visiting my portfolio and happy code!
                         </p>
                     </div>
                 </div>
