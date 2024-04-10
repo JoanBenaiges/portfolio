@@ -21,10 +21,10 @@ function Projects() {
                             <div className="extra-info">
                                 <p>{project.info}</p>
                                 <div className="links">
-                                    <a href={project.linkGithub} >
+                                    <a href={project.linkGithub} target="_blank">
                                         <img className="icon" src="https://svgur.com/i/14L9.svg" alt={project.name} />
                                     </a>
-                                    <a href={project.linkWeb} >
+                                    <a href={project.linkWeb} target="_blank">
                                         <img className="icon" src="https://i.imgur.com/ykjyx1q.png" alt={project.name} />
                                     </a>
                                 </div>

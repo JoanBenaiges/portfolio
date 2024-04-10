@@ -38,7 +38,7 @@ function About() {
 
                 <div className="buttons-contact">
 
-                    <a className="button" href="https://www.linkedin.com/in/joan-benaiges-94bb9460/" style={{ '--color': '#32CD32' }}>
+                    <a className="button" href="https://www.linkedin.com/in/joan-benaiges-94bb9460/" target="_blank" style={{ '--color': '#32CD32' }}>
                         <span></span>
                         <span></span>
                         <span></span>
@@ -46,7 +46,7 @@ function About() {
                         LinkedIn
                     </a>
 
-                    <a className="button" href="https://github.com/JoanBenaiges" style={{ '--color': '#32CD32' }}>
+                    <a className="button" href="https://github.com/JoanBenaiges" target="_blank" style={{ '--color': '#32CD32' }}>
                         <span></span>
                         <span></span>
                         <span></span>
@@ -54,7 +54,7 @@ function About() {
                         GitHub
                     </a>
 
-                    <a className="button" href="https://drive.google.com/file/d/15eZedM1myxl320ihoY4NOHkOGhpdsrC6/view" style={{ '--color': '#32CD32' }}>
+                    <a className="button" href="https://drive.google.com/file/d/15eZedM1myxl320ihoY4NOHkOGhpdsrC6/view" target="_blank" style={{ '--color': '#32CD32' }}>
                         <span></span>
                         <span></span>
                         <span></span>
