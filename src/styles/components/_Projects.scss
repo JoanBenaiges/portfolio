@@ -108,6 +108,7 @@
 
         .card {
             width: calc(100% - 10px);
+            height: 15rem;
 
             &:hover {
                 transform: scale(1.1);
@@ -116,25 +117,25 @@
 
             .extra-info {
                 display: none;
-                padding-top: 1rem;
+                padding-top: 0.5rem;
 
                 p {
-                    font-size: 0.8rem;
+                    font-size: 0.7rem;
                     margin-left: 1rem;
                     margin-right: 1rem;
                 }
             }
 
             .name {
-                font-size: 1.1rem;
-            }
-
-            .tech {
                 font-size: 1rem;
             }
 
+            .tech {
+                font-size: 0.9rem;
+            }
+
             .links {
-                margin-top: 0.2rem;
+                margin-top: 0rem;
 
                 .icon {
                     margin: 0.5rem;
